@@ -1,0 +1,35 @@
+[
+  {
+    "school": [
+      {
+        "title": "Hyper!",
+        "description": "",
+        "uri": "",
+        "projectLink": "",
+        "projectWebsite": ""
+      }
+    ]
+  },
+  {
+    "startup": [
+      {
+        "title": "Pixel Menu",
+        "description": "",
+        "uri": "",
+        "projectLink": "",
+        "projectWebsite": ""
+      }
+    ]
+  },
+  {
+    "hackathon": [
+      {
+        "title": "Servicer",
+        "description": "",
+        "uri": "",
+        "projectLink": "",
+        "projectWebsite": ""
+      }
+    ]
+  }
+]
